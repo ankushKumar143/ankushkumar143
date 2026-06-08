@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
+<h1>Hi 👋, I'm Ankush Kumar</h1>
 
-<p align="center">
+<p>
 💻 Full Stack Developer | React & Node.js Enthusiast <br>
 🚀 Building modern web applications and real-time experiences <br>
 🌱 Currently learning advanced full-stack development
