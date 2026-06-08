@@ -1,4 +1,10 @@
+<h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
 
+<p align="center">
+💻 Full Stack Developer | React & Node.js Enthusiast <br>
+🚀 Building modern web applications and real-time experiences <br>
+🌱 Currently learning advanced full-stack development
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sekaicanvas.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankushkumarofficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankush3627@gmail.com) 
 
